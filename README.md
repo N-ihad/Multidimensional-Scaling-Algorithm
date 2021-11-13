@@ -1,5 +1,5 @@
-# MDS
-Multidimensional Scaling algorithm (metric)
+# Multidimensional Scaling Algorithm
+Multidimensional Scaling Algorithm (metric)
 
 ## Methods description
 **MDS(disMatr, desiredDim)** function takes 2 parameters and outputs objects coordinates:\
